@@ -1,0 +1,2 @@
+valor = float (input ("Escreva o valor do carro: "))
+print ("O veiculo de valor", valor, "possui", valor*0.45, "de imposto e", (valor*1.45) * 0.12, "de lucro do distribuidor, com o preço total de", (valor*1.45) * 1.12)
